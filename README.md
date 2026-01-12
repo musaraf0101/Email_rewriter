@@ -12,7 +12,7 @@
 
 1. Clone the repository:
     ```cmd
-    git clone http://github.com/musaraf0101/email_rewriter.git
+       https://github.com/musaraf0101/Email_rewriter.git
 
 2. Navigate to the project folder:
     cd email_rewriter
