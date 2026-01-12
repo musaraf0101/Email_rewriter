@@ -1,4 +1,5 @@
-# Email Rewriter - **Rewrites emails to make them concise and polite.**
+# Email Rewriter 
+**Rewrites emails to make them concise and polite.**
 
 <img width="1022" height="791" alt="Screenshot 2026-01-12 073925" src="https://github.com/user-attachments/assets/dfcde19a-88fb-44d6-9c2d-417a222e2893" />
 
